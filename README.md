@@ -14,7 +14,7 @@ Create an app that displays a quote and the author upon clicking a button
 
 ### Sources:
 ## API - https://api.quotable.io/random
-##Tutorial - https://www.youtube.com/watch?v=bMRrSqWFKqM
+## Tutorial - https://www.youtube.com/watch?v=bMRrSqWFKqM
 
 
 
