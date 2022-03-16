@@ -6,15 +6,15 @@ Create an app that displays a quote and the author upon clicking a button
 
 
 ### Goals
--Change the background color "randomly" from an array of colors. 
--Change the font of the author to look like various signatures.
--Add a random background image - I tried to do this with another axios call in the same App.js file and it didn't work. I suspect I would need to import/export this feature as a separate component. More research required.
+1. Change the background color "randomly" from an array of colors. 
 
-### Sources
-## API
-https://api.quotable.io/random
-##Tutorial
-https://www.youtube.com/watch?v=bMRrSqWFKqM
+2. Change the font of the author to look like various signatures.
+
+3. Add a random background image - I tried to do this with another axios call in the same App.js file and it didn't work. I suspect I would need to import/export this feature as a separate component. More research required.
+
+### Sources:
+## API - https://api.quotable.io/random
+##Tutorial - https://www.youtube.com/watch?v=bMRrSqWFKqM
 
 
 
