@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Cardo&family=Lobster&family=Oswald&display=swap');
+body {
+  background-color: rgba(138, 241, 241, 0.486);
+}
+.App {
+  text-align: center;
+  margin: 5px;
+  border: 2px solid black;
+  padding: 20px;
+  background-color: rgba(252, 252, 252, 0.568);
+}
+button {
+  padding: 10px;
+  background-color: rgba(83, 152, 255, 0.589);
+  transition-duration: 0.4s;
+  border-color:rgb(83, 152, 255);
+  font-family: 'Lobster', cursive;
+  letter-spacing: .1rem;
+}
+button:hover {
+  background-color: rgba(138, 241, 241, 0.486);
+  border-color:rgba(138, 241, 241, 0.884);
+}
+p {
+font-family: 'Cardo', serif;
+  font-size: larger;
+}
+
+.byline {
+font-family: 'Lobster', cursive;
+text-align: right;
+}
+
