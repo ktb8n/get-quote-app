@@ -1,6 +1,5 @@
 # Get Quote App
 
-## Available Scripts
 
 ### Objective
 Create an app that displays a quote and the author upon clicking a button
